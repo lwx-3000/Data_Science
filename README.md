@@ -1,5 +1,8 @@
-# Working Sample
-This repository contains a few working samples of my past internships.
-The file names are self-explainatory. 
+# Data Analysis 
+###ad_click: 
+prediction on advertisment based on several features. 
+
+###mobile_app_popularity_predict
+Prediction of app popularity
 
 Please do not share unauthorizedly.
