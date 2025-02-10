@@ -12,7 +12,7 @@ A project includes a regression of the app's historical data popularity and a pr
 ### "predict_authorship":
 A modeling process includes cosine similarity. It contains a study of the handwriting style of the novel and gives a prediction of the authorship of any paragraph. Originally created as a tool for plagiarism detection. 
 
-### "Delivery_Dataset_Challange":
+### "delivery_dataset_challange":
 A binary prediction(success and failure) on the delivery meets the deadline for each employee delivery worker. The dataset includes data from 29,389 truck routes carried out by 39,389 employees. 
 
 ### "simplified_banking_system": 
